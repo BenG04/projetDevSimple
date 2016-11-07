@@ -1,1 +1,2 @@
-La page index.html contient le html de la page 
+Le fichier index.html contient le code html simple 
+Le fichier style.css défini la charte graphique de la page
